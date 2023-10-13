@@ -7,3 +7,5 @@ def hello_user(name: str):
     start_question: str = input('Do you want start the game?\n:')
 
     return start_answer[start_question.lower()]
+
+print('1')
