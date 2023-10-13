@@ -9,3 +9,4 @@ def hello_user(name: str):
     return start_answer[start_question.lower()]
 
 print('1')
+print('2')
