@@ -14,4 +14,7 @@ for item in data:
 
     users_info['users'].append(short_info)
 
-print(users_info)
+for user in users_info['users']:
+    print('\n')
+    for key, value in user.items():
+        print(f'{key}: {value}')
