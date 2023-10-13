@@ -18,3 +18,5 @@ for user in users_info['users']:
     print('\n')
     for key, value in user.items():
         print(f'{key}: {value}')
+
+print('first commit 1')
