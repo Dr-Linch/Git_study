@@ -20,3 +20,4 @@ for user in users_info['users']:
         print(f'{key}: {value}')
 
 print('first commit 1')
+print('seccond commit 2')
