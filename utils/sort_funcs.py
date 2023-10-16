@@ -19,4 +19,3 @@ for user in users_info['users']:
     for key, value in user.items():
         print(f'{key}: {value}')
 
-print('1')
