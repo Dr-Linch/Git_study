@@ -20,3 +20,5 @@ for user in users_info['users']:
         print(f'{key}: {value}')
 
 print('1')
+
+print('3')
